@@ -1,8 +1,4 @@
-<div align="center">
- 
- 
 ! [Hammad Sadi](https://i.postimg.cc/NM1Nsz0H/Abstract-Technology-0001.gif)
-</div>
 - 👋 Hi, I’m @hammadsadi
 - 👀 I’m interested in Programming...
 - 🌱 I’m currently learning Web Design and Development
