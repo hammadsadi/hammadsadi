@@ -1,7 +1,7 @@
 <div align="center">
  
  
-<img width="100%" src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg" alt="cover" />
+<img width="100%" src="https://i.postimg.cc/NM1Nsz0H/Abstract-Technology-0001.gif" alt="cover" />
 </div>
 - 👋 Hi, I’m @hammadsadi
 - 👀 I’m interested in Programming...
