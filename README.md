@@ -3,13 +3,5 @@
  
 <img width="100%" src="https://i.postimg.cc/63GGDMK4/banner-hammad.png" alt="cover" />
 </div>
-- 👋 Hi, I’m @hammadsadi
-- 👀 I’m interested in Programming...
-- 🌱 I’m currently learning Web Design and Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# About Me
 
-<!---
-hammadsadi/hammadsadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
