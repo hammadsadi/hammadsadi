@@ -13,9 +13,9 @@
 - 💬 Talk to me about React, Node, Next js, JavaScript, Freelancing Opportunities etc.
  - 📫 Reach me at **hammad.sadi@yahoo.com**
 
-   <h2 align="center">⚒️ Familiar Tech /skills ⚒️</h2>
+   <h2 align="left">⚒️ Familiar Tech /skills ⚒️</h2>
 <br/>
-<div align="left">
+<div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,nextjs" /><br>
 </div>
