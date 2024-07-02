@@ -11,5 +11,12 @@
 - 🌱 I’m currently learning TypeScript 
 
 - 💬 Talk to me about React, Node, Next js, JavaScript, Freelancing Opportunities etc.
- - 📫 Reach me at **hammad.sadi@yahoo.com**  
+ - 📫 Reach me at **hammad.sadi@yahoo.com**
+
+   <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
