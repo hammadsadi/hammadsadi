@@ -13,7 +13,8 @@
 - 💬 Talk to me about React, Node, Next js, JavaScript, Freelancing Opportunities etc.
  - 📫 Reach me at **hammad.sadi@yahoo.com**
 
-[![GitHub Streak](https://github-readme-streak-stats-cyan-omega.vercel.app?user=hammadsadi&theme=highcontrast&hide_border=true&card_width=800)](https://git.io/streak-stats)
+<h2>Daily Streak</h2>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-cyan-omega.vercel.app?user=hammadsadi&theme=highcontrast&hide_border=true&card_width=1000" alt="GitHub Streak" /></a>
  
 
    <h2 align="left">⚒️ Familiar Tech /skills ⚒️</h2>
