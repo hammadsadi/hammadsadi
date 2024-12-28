@@ -21,7 +21,7 @@
 <br/>
 <div align="center">
     <!-- <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" /> -->
-     <img src="https://skillicons.dev/icons?i=react,bootstrap,ts,tailwind,git" />
+     <img src="https://skillicons.dev/icons?i=react,bootstrap,ts,tailwind,git" /> <br>
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,nextjs, ts" />
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,git" />
     <br>
