@@ -14,7 +14,8 @@ Hi there! I'm Hammad Sadi, a passionate Junior Web Developer specializing in Jav
 - 🌱 I’m currently learning Redux 
 
 - 💬 Talk to me about React, Node, Next js, JavaScript, Freelancing Opportunities etc.
- - 📫 Reach me at **hammad.sadi@yahoo.com**
+- 📫 Reach me at **hammad.sadi@yahoo.com**
+- 🔗 Portfolio [https://hammad-sadi.web.app/](https://hammad-sadi.web.app/)
 
 <h2>Daily Streak</h2>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-cyan-omega.vercel.app?user=hammadsadi&theme=highcontrast&hide_border=true&card_width=1000" alt="GitHub Streak" /></a>
