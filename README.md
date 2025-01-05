@@ -9,7 +9,7 @@
 
 Hi there! I'm Hammad Sadi, a passionate Junior Web Developer specializing in JavaScript, React.js, Tailwind CSS, Node.js, Express.js, and MongoDB. I'm a tech enthusiast, and I love exploring new technologies like Redux and working with the MERN stack.
 
-- 🔭 I’m Junior Mern Stack Developer
+- 🔭 I’m Full Stack Developer
 
 - 🌱 I’m currently learning Redux 
 
