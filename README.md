@@ -11,7 +11,7 @@ Hi there! I'm Hammad Sadi, a passionate Junior Web Developer specializing in Jav
 
 - 🔭 I’m Full Stack Developer
 
-- 🌱 I’m currently learning Postgresql 
+- 🌱 I’m currently learning Prisma 
 
 - 💬 Talk to me about React, Node, Next js, JavaScript, Freelancing Opportunities etc.
 - 📫 Reach me at **hammad.sadi@yahoo.com**
