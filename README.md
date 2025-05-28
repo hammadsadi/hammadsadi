@@ -21,7 +21,7 @@
 
 <h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
 
-Hi there! I'm Hammad Sadi, a passionate Junior Web Developer specializing in JavaScript, React.js, Tailwind CSS, Node.js, Express.js, and MongoDB. I'm a tech enthusiast, and I love exploring new technologies like Redux and working with the MERN stack.
+Hi there! I'm Hammad Sadi, a passionate Full Stack Web Developer skilled in React.js, Tailwind CSS, Node.js, Express.js, MongoDB, PostgreSQL, Redux Toolkit, TypeScript, and Next.js. I love building modern, scalable web applications and enjoy working on real-world projects that push my skills forward.
 
 - 🔭 I’m Full Stack Developer
 
