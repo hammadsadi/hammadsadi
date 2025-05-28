@@ -12,8 +12,7 @@
     <a href="https://www.linkedin.com/in/hammadsadiq"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a>
     <a href="https://www.instagram.com/hammadsadiq"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="25" /></a>
     <a href="https://www.youtube.com/@hammadsadiq"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height="25" /></a>
-    <a href="https://medium.com/@hammadsadiq"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height="25" /></a>
-    <a href="https://dev.to/hammadsadiq"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height="25" /></a>
+    
   </div>
 
   <!-- Visitor Count (Right) -->
