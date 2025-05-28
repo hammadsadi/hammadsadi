@@ -5,7 +5,7 @@
 
 <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hammadsadi.hammadsadi" /> -->
 </div>
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <!-- Social Links (Left) -->
   <div style="flex: 1; min-width: 300px;">
     <a href="https://twitter.com/hammadsadiq"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="25" /></a>
