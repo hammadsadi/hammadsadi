@@ -10,7 +10,7 @@ Hi there! I'm Hammad Sadi, a passionate Junior Web Developer specializing in Jav
 
 - 🔭 I’m Full Stack Developer
 
-- 🌱 I’m currently learning Websocket
+- 🌱 I’m currently learning Remix
 
 - 💬 Talk to me about React, Node, Next js, JavaScript, Freelancing Opportunities etc.
 - 📫 Reach me at **hammad.sadi@yahoo.com**
@@ -18,7 +18,6 @@ Hi there! I'm Hammad Sadi, a passionate Junior Web Developer specializing in Jav
 
 <h2>Daily Streak</h2>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-cyan-omega.vercel.app?user=hammadsadi&theme=highcontrast&hide_border=true&card_width=1000" alt="GitHub Streak" /></a>
-
 
    <h2 align="left">⚒️ Familiar Tech /skills ⚒️</h2>
 <br/>
