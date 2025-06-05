@@ -25,7 +25,7 @@ Hi there! I'm Hammad Sadi, a passionate Full Stack Web Developer skilled in Reac
 
 - 🔭 I’m Full Stack Developer
 
-- 🌱 I’m currently learning Remix
+- 🌱 I’m currently learning Socket io
 
 - 💬 Talk to me about React, Node, Next js, JavaScript, Freelancing Opportunities etc.
 - 📫 Reach me at **hammad.sadi@yahoo.com**
