@@ -38,7 +38,7 @@ Hi there! I'm Hammad Sadi, a passionate Full Stack Web Developer skilled in Reac
 <br/>
 <div align="center">
     <!-- <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" /> -->
-     <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,bootstrap,ts,firebase" /> <br>
+     <img src="https://skillicons.dev/icons?i=js,go,react,nextjs,tailwind,bootstrap,ts,firebase" /> <br>
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma" /> <br>
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,postman" />
     <br>
