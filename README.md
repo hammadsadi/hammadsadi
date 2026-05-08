@@ -3,7 +3,7 @@
   </div>
 <div align="center">
  
-<img width="100%" src="https://i.postimg.cc/63GGDMK4/banner-hammad.png" alt="cover" />
+<img width="100%" src="https://i.postimg.cc/4NYPdHqH/hammad-banner.jpg" alt="cover" />
 
 <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hammadsadi.hammadsadi" /> -->
 </div>
