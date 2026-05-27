@@ -27,7 +27,7 @@ Hi there! I'm Hammad Sadi, a passionate Full Stack Web Developer skilled in Node
 
 - 🌱 Currently Exploring FastAPI...
 
-- 💬 Talk to me about React, Node, Next js, JavaScript, Freelancing Opportunities etc.
+- 💬 Talk to me about React, Node, Next js, JavaScript, Python, FastAPI Freelancing Opportunities etc.
 - 📫 Reach me at **hammad.sadi@yahoo.com**
 - 🔗 Portfolio [https://hammadsaadi-portfolio.vercel.app/](https://hammadsaadi-portfolio.vercel.app/)
 
